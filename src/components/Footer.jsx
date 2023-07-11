@@ -14,8 +14,8 @@ const Footer = (props) => {
           fontStyle: "italic",
         }}
       >
-        “And surely your Lord will give so much to you that you will be pleased”
-        (93:4,5)
+        “And surely your Lord will give so much to you that you will be
+        well-pleased” (93:4,5)
       </p>
     </div>
   );
